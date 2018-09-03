@@ -1,5 +1,5 @@
 # tesseract
-In order to install run these files you will need..
+In order to install run these files you will need..\n
 sudo apt install python3-venv python3-pip
 python3 -m pip install --upgrade setuptools
 python3 -m pip install --upgrade pip
